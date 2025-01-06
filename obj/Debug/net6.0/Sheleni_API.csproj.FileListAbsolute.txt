@@ -1,0 +1,158 @@
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Sheleni_API.exe
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Sheleni_API.deps.json
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Sheleni_API.runtimeconfig.json
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Sheleni_API.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Sheleni_API.pdb
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\Sheleni_API.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\Sheleni_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\Sheleni_API.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\Sheleni_API.AssemblyInfo.cs
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\Sheleni_API.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\Sheleni_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\Sheleni_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\staticwebassets\msbuild.Sheleni_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\staticwebassets\msbuild.build.Sheleni_API.props
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sheleni_API.props
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sheleni_API.props
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\scopedcss\bundle\Sheleni_API.styles.css
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\Sheleni_API.csproj.CopyComplete
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\Sheleni_API.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\refint\Sheleni_API.dll
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\Sheleni_API.pdb
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\Sheleni_API.genruntimeconfig.cache
+C:\Users\PC\Documents\Visual Studio 2022\Projects\Sheleni (MTN MOMO)\Sheleni_API\obj\Debug\net6.0\ref\Sheleni_API.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Sheleni_API.staticwebassets.endpoints.json
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Sheleni_API.exe
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Sheleni_API.deps.json
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Sheleni_API.runtimeconfig.json
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Sheleni_API.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Sheleni_API.pdb
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Chuma\Documents\Sheleni_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\Sheleni_API.csproj.AssemblyReference.cache
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\Sheleni_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\Sheleni_API.AssemblyInfoInputs.cache
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\Sheleni_API.AssemblyInfo.cs
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\Sheleni_API.csproj.CoreCompileInputs.cache
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\Sheleni_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\Sheleni_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\scopedcss\bundle\Sheleni_API.styles.css
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\staticwebassets\msbuild.Sheleni_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\staticwebassets\msbuild.Sheleni_API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\staticwebassets\msbuild.build.Sheleni_API.props
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sheleni_API.props
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sheleni_API.props
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\Sheleni_.2F6A185A.Up2Date
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\Sheleni_API.dll
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\refint\Sheleni_API.dll
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\Sheleni_API.pdb
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\Sheleni_API.genruntimeconfig.cache
+C:\Users\Chuma\Documents\Sheleni_API\obj\Debug\net6.0\ref\Sheleni_API.dll
